@@ -1,5 +1,5 @@
 # Coursera
-Code from courses that I've learned. Links/Examples/Comments
+Code from courses that I've learned. Links/Example/Comments
 
 
 https://www.coursera.org/learn/java-programming/home/welcome
